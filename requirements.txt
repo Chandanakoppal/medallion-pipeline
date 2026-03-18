@@ -1,0 +1,6 @@
+# pyspark: distributed data processing engine (runs on JVM via PySpark API)
+pyspark==3.5.1
+
+# delta-spark: adds Delta Lake format support to Spark
+# gives you ACID transactions, schema enforcement, time travel on files
+delta-spark==3.1.0

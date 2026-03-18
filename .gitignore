@@ -1,0 +1,15 @@
+# Delta Lake data (large, generated — don't commit)
+data/bronze/
+data/silver/
+data/gold/
+
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+logs/
+
+# OS
+.DS_Store
